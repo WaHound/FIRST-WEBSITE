@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> The Greatest Localhost Page</title>
+    <link rel="stylesheet"  href="style.css">
+</head>
+<body>
+
+    <div class="card">
+        <h1>The Round Boy Likes Men </h1>
+
+        <p> 
+
+        <img src="picture.jpg.WEBP" alt="My Project Image">
+            
+        This is my first HTML page. I am learning how to run a webpage on a localhost, upload my code to Github, and host it online.
+
+        </p>
+    </div>
+</body>
+</html>
